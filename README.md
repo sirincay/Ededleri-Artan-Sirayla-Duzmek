@@ -1,4 +1,4 @@
-# Ededleri-Artan-Sirayla-Duzmek
+# C++ ilə Yazdığınız Ədədləri Artan Sırayla Düzür
 <p align="center">
   <img src="https://telegra.ph/file/612a1086c3648ac35344c.jpg" width="600" height="400">
 </p>
@@ -16,16 +16,6 @@
 </div>
 
 ---
-# 📌MƏLUMAT📌
-C++ Uzun illerden Demək olar ki bütün platformlarda esaslari mövcuddur.
-C kimi sürətli olduğu üçün real proqramlaşdırma, oyun proqramlaşdırılması v.s. də bu dilə üstünlük verilir. 
-Eyni zamanda sistem proqramlaşmasında əsas dillərdən biridir. 
-Mürəkkəb bir dil hesab olduğuna görə yeni nəsil C dilllərinin – Java və C# – meydana çıxmasındakı səbəblərdən biridir. 
-C++ - da "𝗰𝗼𝘂𝘁 , 𝗰𝗶𝗻" kimi giriş və çıxış əməliyyatları var. Həmçinin for və while kimi dövr operatorları mövcuddur.
----
 ## 📣Əlavə
 * Əgər bu sizin işinizə yaradısa <a href="https://t.me/CppStreet">☯️ 𝐂++ 𝐒𝐭𝐫𝐞𝐞𝐭 ☯️</a> kanalına abu olmağı unutmayın 😉
 
-
-
-C++ ilə Yazdığınız Ədədləri Artan Sırayla Düzür
