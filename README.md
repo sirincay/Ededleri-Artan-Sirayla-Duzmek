@@ -1,6 +1,6 @@
 # Ededleri-Artan-Sirayla-Duzmek
 <p align="center">
-  <img src="https://telegra.ph/file/612a1086c3648ac35344c.jpg" width="400" height="400">
+  <img src="https://telegra.ph/file/612a1086c3648ac35344c.jpg" width="600" height="400">
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
